@@ -11,6 +11,11 @@ document.querySelector('button').addEventListener('click', function () {
 },);
 
 
+
+Explicação:
+
+
+
 document.querySelector -> seleciona o documento a ser lido, no caso o botão ('button') .addEventListener('click', function ()) cria uma função que gera um evento 
 chamado click ao se acionar o botão
 
